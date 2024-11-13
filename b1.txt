@@ -1,2 +1,6 @@
 b1
+HEAD
 b1-modified in master branch
+
+b1-first branch modification
+first
